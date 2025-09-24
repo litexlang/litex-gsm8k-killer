@@ -1,0 +1,12 @@
+{
+  "user_info": {
+    "username": "YOUR_USERNAME_HERE",
+    "email": "your_email@example.com"
+  },
+  "collaboration_info": {
+    "id": "YOUR_COLLABORATION_ID_HERE"
+  },
+  "volcengine_info": {
+    "api_key": "YOUR_VOLCENGINE_API_KEY_HERE"
+  }
+}

@@ -1,0 +1,10 @@
+# Core dependencies for litex-gsm8k-killer project
+
+# HTTP requests for API communication
+requests
+
+# VolcEngine SDK for DeepSeek model access
+volcengine-python-sdk[ark]
+
+# LiteX for mathematical computation verification
+pylitex
